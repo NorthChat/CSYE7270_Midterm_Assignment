@@ -19,6 +19,7 @@ This repository is the full submission for the CSYE 7270 Take-Home Midterm. It d
 | `Chatterjee_Preeta_CSYE7270_Midterm_Essay.pdf` | Technical essay — five-section structure, 1,500–2,500 words |
 | `Chatterjee_Preeta_CSYE7270_Midterm_Demo.ipynb` | Jupyter notebook demo with triggered failure case and Human Decision Node |
 | `Chatterjee_Preeta_CSYE7270_Authors_Note.pdf` | Three-page author's note — design choices, tool usage, self-assessment |
+| `Chatterjee_Preeta_CSYE7270_Midterm_Demo_ipynb_output_pdf.pdf` | PDF export of the notebook with all outputs rendered, generated via nbconvert |
 | `images/` | All AI-generated outputs documented in the notebook |
 | `README.md` | This file |
 
