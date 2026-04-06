@@ -22,6 +22,7 @@ This repository is the full submission for the CSYE 7270 Take-Home Midterm. It d
 | `Chatterjee_Preeta_CSYE7270_Midterm_Demo_ipynb_output_pdf.pdf` | PDF export of the notebook with all outputs rendered, generated via nbconvert |
 | `images/` | All AI-generated outputs documented in the notebook |
 | `README.md` | This file |
+| [Video Walkthrough]([https://your-youtube-link-here](https://youtu.be/zepgIRNaVNI?si=DowR2Q6g1VpH7yfg)) | 10-minute video demo — Explain, Show, Try structure |
 
 ---
 
